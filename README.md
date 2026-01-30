@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Zachary 👋
 
-<!--
-**Zachary-Miras/Zachary-Miras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer
+I'm a software developer based in France. My goal is to solve problems and build useful, well-designed products with clean, efficient, and maintainable code.
 
-Here are some ideas to get you started:
+## 🚀 What I'm currently working on
+- Full-stack web applications (personal projects)
+- Backend logic, APIs, and database design
+- Improving performance, scalability, and code quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+React, Next.js, Tailwind CSS, JavaScript, Java, MongoDB
+
+## 📫 How to reach me
+- **Email:** zmiras72@gmail.com
